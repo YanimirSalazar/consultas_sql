@@ -27,7 +27,7 @@ Contiene datos sobre editoriales:
 - *publisher_id*: identificación de la editorial
 - *publisher*: la editorial
 
-  **ratings**
+**ratings**
 
 Contiene datos sobre las calificaciones de usuarios:
 
